@@ -1,2 +1,2 @@
-# Formulaire-d-inscription-
-Manipulation des formulaires en javaScrip
+# Formulaire-d-inscription
+Manipulation des formulaires en javaScript
